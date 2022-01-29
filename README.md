@@ -1,6 +1,6 @@
-# time-tracker
+i# time-tracker
 Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Good Night Students!!!
+Good Evening Students!!!
